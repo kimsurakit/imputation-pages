@@ -1,4 +1,4 @@
-import{Q as i}from"#entry";function k(t,e,r){const o=r.originalEvent.target,n=new CustomEvent(t,{bubbles:!1,cancelable:!0,detail:r});e&&o.addEventListener(t,e,{once:!0}),o.dispatchEvent(n)}/**
+import{N as i}from"#entry";function k(t,e,r){const o=r.originalEvent.target,n=new CustomEvent(t,{bubbles:!1,cancelable:!0,detail:r});e&&o.addEventListener(t,e,{once:!0}),o.dispatchEvent(n)}/**
  * @license lucide-vue-next v0.546.0 - ISC
  *
  * This source code is licensed under the ISC license.
